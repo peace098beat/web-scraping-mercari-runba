@@ -1,0 +1,134 @@
+catch_name,Model_Name,ModelA,year,ModelB,CPU
+Mid 2021,iMac 24 inch,-,2021,MGPD3J/A,Apple M1チップ
+,,-,,MGPN3J/A,
+,,-,,MGPL3J/A,
+,,-,,MGPJ3J/A,
+,,-,,MGPM3J/A,
+,,-,,MGPK3J/A,
+,,-,,MGPH3J/A,
+,,-,,MGPC3J/A,
+,,-,,MJVA3J/A,
+,,-,,MJV83J/A,
+,,-,,MJV93J/A,
+,,-,,MGTF3J/A,
+"Mid 2021 北米モデル",iMac 24 inch,A2438,2021,MGPD3LL/A,"Apple M1チップ 8-core GPU"
+,,,,MGPN3LL/A,
+,,,,MGPL3LL/A,
+,,,,MGPJ3LL/A,
+,,,,MGPM3LL/A,
+,,,,MGPK3LL/A,
+,,,,MGPH3LL/A,
+,,,,MGPC3LL/A,
+,,,,MGPF3LL/A,
+,,,,"MGPG3LL/A",
+,,,,MGPP3LL/A,
+,,,,"MGPQ3LL/A",
+,,A2439,,MJVA3LL/A,"Apple M1チップ 7-core GPU"
+,,,,MJV83LL/A,
+,,,,MJV93LL/A,
+,,,,MGTF3LL/A,
+Mid 2020,iMac Pro 27 inch,-,2020,MHLV3J/A,Xeon W 3GHz
+,iMac 27 inch,-,,MXWV2J/A,Core i7 3.8GHz
+,,-,,MXWU2J/A,Core i5 3.3GHz
+,,-,,MXWT2J/A,Core i5 3.1GHz
+,iMac 21.5 inch,-,,MHK33J/A,Core i5 3GHz
+,,-,,MHK23J/A,Core i3 3.6GHz
+,,-,,MHK03J/A,Core i5 2.3Ghz
+"Mid 2020 北米モデル",iMac Pro 27 inch,A1862,2020,MHLV3LL/A,10-Core 3.0 GHz Intel Xeon W
+,iMac 27 inch,A2115,,MXWV2LL/A,Core i7 3.8GHz
+,,,,MXWU2LL/A,Core i5 3.3GHz
+,,,,MXWT2LL/A,Core i5 3.1GHz
+,iMac 21.5 inch,A2116,,MHK33LL/A,Core i5 3GHz
+,,A2116,,MHK23LL/A,Core i3 3.6GHz
+,,A1418,,MHK03LL/A,Core i5 2.3Ghz
+Early 2019,iMac 27 inch,-,2019,MRR12J/A,Core i5 3.7GHz
+,,-,,MRR02J/A,Core i5 3.1GHz
+,,-,,MRQY2J/A,Core i5 3GHz
+,iMac 21.5 inch,-,,MRT42J/A,
+,,-,,MRT32J/A,Core i3 3.6GHz
+"Early 2019 北米モデル",iMac 27 inch,A2115,2019,MRR12LL/A,Core i5 3.7GHz
+,,,,MRR02LL/A,Core i5 3.1GHz
+,,,,MRQY2LL/A,Core i5 3.0GHz
+,iMac 21.5 inch,A2116,,MRT42LL/A,Core i5 3.0GHz
+,,,,MRT32LL/A,Core i3 3.6GHz
+Late 2012,iMac 21.5 inch,A1311,2012,MC812J/A,Core i5-2500S 2.7GHz
+Late 2011,iMac 21.5 inch,A1311,2011,MC309J/A,Core i5-2400S 2.5GHz
+Mid 2011,iMac 27 inch,A1312,2011,MC814J/A,Core i5-2400 3.1GHz
+,,,,MC813J/A,Core i5-2500S 2.7GHz
+Late 2010,iMac 21.5 inch,A1311,2010,MC508J/A,Core i3 3.06GHz
+,,,,MC509J/A,Core i3 3.2GHz
+Mid 2010,iMac 27 inch,A1312,2010,MC510J/A,Core i3 3.2GHz
+,,,,MC511J/A,Core i5 2.8GHz
+Late 2009,iMac 21.5 inch,A1311,2009,MC413J/A,Core 2 Duo 3.06GHz
+,,,,MB950J/A,
+,iMac 27 inch,A1312,,MB953J/A,Core i5-750 2.66GHz
+,,,,MB952J/A,Core 2 Duo 3.06GHz
+Early 2009,iMac 20 inch,A1224,2009,MB417J/A,Core 2 Duo 2.66GHz
+,iMac 24 inch,A1225,,MB418J/A,
+,,,,MB419J/A,Core 2 Duo 2.93GHz
+,,,,MB420J/A,Core 2 Duo 3.06GHz
+Early 2008,iMac 20 inch,A1224,2008,MB323J/A,Core 2 Duo 2.4GHz
+,,,,MB324J/A,Core 2 Duo 2.66GHz
+,iMac 24 inch,A1225,,MB325J/A,Core2 Duo 2.8GHz
+Mid 2007,iMac 20 inch,A1224,2007,MA876J/A,Core 2 Duo 2GHz
+,,,,MA877J/A,Core 2 Duo 2.4GHz
+,iMac 24 inch,A1225,,MA878J/A,
+Late 2006 CD,iMac 20 inch,A1195,2006,MA710J/A,Core 2 Duo 1.83GHz
+Late 2006,iMac 20 inch,A1207,2006,MA589J/A,Core2 Duo 2.16GHz
+,iMac 17 inch,A1208,2006,MA590J/A,Core 2 Duo 2GHz
+Mid 2006,iMac 17 inch,A1195,2006,MA406J/A,Core Duo 1.83GHz
+,iMac 24 inch,A1200,2006,MA456J/A,Core2 Duo 2.16GHz
+Early 2006,iMac 17 inch,A1173,2006,MA199J/A,Core Duo 1.83GHz
+,,,,MA200J/A,Core Duo 2GHz
+-,iMac,-,2003,M8935J/A,PowerPC G4 1GHz
+-,,-,,M9105J/A,PowerPC G4 800MHz
+-,,-,,M9168J/A,PowerPC G4 1.25GHz
+-,,-,,M9285J/A,PowerPC G4 1GHz
+-,,-,,M9290J/A,PowerPC G4 1.25GHz
+-,iMac Snow,-,2002,M7677J/A,PowerPC G4 700MHz
+-,iMac,-,2002,M7677J/A,PowerPC G4 700MHz
+-,,-,,M7677J/B,
+-,,-,,M8672J/A,
+-,,-,,M8812J/A,
+-,,-,,M8535J/A,PowerPC G4 800MHz
+-,,-,,M8535J/B,
+-,iMac Flower Power,-,2001,M8346J/A,PowerPC G3 500MHz
+-,iMac Blue Dalmatian,-,2001,M8345J/A,PowerPC G3 500MHz
+-,,-,,M8345J/A,
+-,iMac Indigo,-,2001,M7683J/A,PowerPC G3 400MHz
+-,,-,,M8344J/A,PowerPC G3 500MHz
+-,,-,,M8582J/A,
+-,iMac Snow,-,2001,M8490J/A,PowerPC G3 500MHz
+-,,-,,M8546J/A,PowerPC G3 600MHz
+-,iMac Special Edition Blue Dalmatian,-,2001,M7675J/A,PowerPC G3 600MHz
+-,iMac Special Edition Flower Power,-,2001,M7679J/A,PowerPC G3 600MHz
+-,iMac Special Edition Graphite,-,2001,M7680J/A,PowerPC G3 600MHz
+-,,-,,M8510J/A,PowerPC G3 700MHz
+-,iMac Special Edition Snow,-,2001,M8554J/A,PowerPC G3 700MHz
+-,iMac Indigo,-,2000,M7667J/A,PowerPC G3 350MHz
+-,iMac DV Indigo,-,2000,M7639J/A,PowerPC G3 400MHz
+-,iMac DV Ruby,-,2000,M7706J/A,PowerPC G3 400MHz
+-,iMac DV Special Edition Graphite,-,2000,M7651J/A,PowerPC G3 500MHz
+-,iMac DV Special Edition Snow,-,2000,M7709J/A,PowerPC G3 500MHz
+-,iMac DV+ Indigo,-,2000,M7647J/A,PowerPC G3 450MHz
+-,iMac DV+ Ruby,-,2000,M7652J/A,PowerPC G3 450MHz
+-,iMac DV+ Sage,-,2000,M7676J/A,PowerPC G3 450MHz
+-,iMac グレープ,-,1999,M7390J/A,PowerPC G3 266MHz
+-,,-,,M7442J/A,PowerPC G3 333MHz
+-,iMac ストロベリー,-,1999,M7389J/A,PowerPC G3 266MHz
+-,,-,,M7441J/A,PowerPC G3 333MHz
+-,iMac タンジェリン,-,1999,M7391J/A,PowerPC G3 266MHz
+-,,-,,M7443J/A,PowerPC G3 333MHz
+-,iMac ブルーベリー,-,1999,M7345J/A,PowerPC G3 266MHz
+-,,-,,M7440J/A,PowerPC G3 333MHz
+-,,-,,M7469J/A,PowerPC G3 350MHz
+-,iMac ライム,-,1999,M7392J/A,PowerPC G3 266MHz
+-,,-,,M7444J/A,PowerPC G3 333MHz
+-,iMac DV Special Edition グラファイト,-,1999,M7668J/A,PowerPC G3 400MHz
+-,iMac DV グレープ,-,1999,M7672J/A,PowerPC G3 400MHz
+-,iMac DV ストロベリー,-,1999,M7673J/A,PowerPC G3 400MHz
+-,iMac DV タンジェリン,-,1999,M7671J/A,PowerPC G3 400MHz
+-,iMac DV ブルーベリー,-,1999,M7493J/A,PowerPC G3 400MHz
+-,iMac DV ライム,-,1999,M7674J/A,PowerPC G3 400MHz
+-,iMac,-,1998,M6709J/A,PowerPC G3 233MHz
+-,,-,,M6709J/B,
